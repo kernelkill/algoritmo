@@ -29,6 +29,7 @@ programa
 					escreva("\nOpção Invalida, tente novamente\n")
 			}
 		}
+		escreva("Saindo do Programa...")
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -36,7 +37,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 472; 
+ * @POSICAO-CURSOR = 566; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
